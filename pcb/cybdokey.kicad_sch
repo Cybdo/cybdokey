@@ -7763,7 +7763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "imports:SK6812MINI-E_fixed"
 			(at 236.22 152.4 0)
 			(effects
 				(font
