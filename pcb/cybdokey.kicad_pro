@@ -54,26 +54,6 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|214222200|80553400|31fa80aa-d585-4c1e-acf6-2c5a9ae45fa3|fcbf5666-641a-40a9-a2f2-b317783e1e98",
-          ""
-        ],
-        [
-          "copper_edge_clearance|214222200|81397400|31fa80aa-d585-4c1e-acf6-2c5a9ae45fa3|20e7b268-a7ca-41f7-beb9-b6c0fcaf94c7",
-          ""
-        ],
-        [
-          "copper_edge_clearance|217463940|83009725|601cfd36-4b57-4ae5-8db3-95f07fb2925e|0f9714a2-cdc4-462c-ba93-fa3844866237",
-          ""
-        ],
-        [
-          "copper_edge_clearance|217900665|82061997|b408e426-c4f0-46e6-81df-a4d0a6091774|f3e573e1-f0f9-4d29-962b-50673cf6da81",
-          ""
-        ],
-        [
-          "copper_edge_clearance|217900706|79888806|cb59a59f-e4fd-4e71-8374-b1f54bff2b9d|84d44c7a-847f-423c-b32f-42ac47cbbf77",
-          ""
-        ],
-        [
           "drill_out_of_range|214505000|65482500|dca88c0a-7457-4cb2-84f8-63702f92fe8e|00000000-0000-0000-0000-000000000000",
           ""
         ],
