@@ -7,6 +7,7 @@
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "1bd3d9db-6048-444d-b623-9838fa870e95")
 		(effects
 			(font
@@ -19,6 +20,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "a37e3eee-2637-496e-9f6a-216c621e224d")
 		(effects
 			(font
@@ -90,17 +92,16 @@
 		(layer "F.Mask")
 		(uuid "812e9fde-c434-44f1-af70-a5892cc761a1")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "e50a2161-5b84-44b7-829c-10ae4494ea6a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
+	(fp_circle
+		(center 0.022981 0.1524)
+		(end 2.522981 0.1524)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "f53ec59b-275c-43dd-80fe-bf6aeb8e8501")
 	)
 	(pad "1" smd custom
 		(at 1.328581 -3.048)

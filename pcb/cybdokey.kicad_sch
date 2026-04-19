@@ -6557,7 +6557,7 @@
 		)
 		(uuid "45a5c7cf-97b8-47aa-8dfa-b6c0e49c39cd")
 	)
-	(label "LED_G"
+	(label "LED_B"
 		(at 167.64 133.35 180)
 		(effects
 			(font
@@ -7249,7 +7249,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "15pF"
 			(at 163.83 21.59 90)
 			(effects
 				(font
@@ -8807,7 +8807,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "15pF"
 			(at 163.83 42.926 90)
 			(effects
 				(font

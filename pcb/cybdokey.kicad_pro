@@ -54,6 +54,10 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
+          "copper_edge_clearance|212950041|84175000|087b9836-917a-48ae-82af-8c36bcdcc693|0f9714a2-cdc4-462c-ba93-fa3844866237",
+          ""
+        ],
+        [
           "drill_out_of_range|214505000|65482500|dca88c0a-7457-4cb2-84f8-63702f92fe8e|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -90,7 +94,11 @@
           ""
         ],
         [
-          "net_conflict|216000000|46600000|d4e43e78-5b94-4ebf-8074-5c846807a27f|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|216000000|45703340|4de0b2e4-da5d-437f-8d21-4d6e8a019f73|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "solder_mask_bridge|216104200|81061600|fafbe171-e42e-4c2d-b3e2-c4572f91d47d|56b9f994-4a29-4053-967b-b80927994d9e",
           ""
         ]
       ],
@@ -601,12 +609,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
