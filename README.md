@@ -5,6 +5,11 @@ A RP2354 based usb hardware authentication key, or anything else you can write f
 <img width="1270" height="720" alt="render showing front and back of cybdokey" src="https://github.com/user-attachments/assets/c995826c-fcd9-4199-bcff-b1967f765c89" />
 
 
+## Zine Page / Poster
+
+<img width="401" height="614" alt="Zine page" src="https://github.com/user-attachments/assets/64a3848f-33c0-48b6-874d-de89e8fed337" />
+
+
 ## Features
 - RP2354-based development board
 - Stacked 2MB flash storage
