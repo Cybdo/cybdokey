@@ -7,6 +7,8 @@ A RP2354 based usb hardware authentication key, or anything else you can write f
 
 ## Zine Page / Poster
 
+pdf in `assets/zine/Zine page.pdf`
+
 <img width="401" height="614" alt="Zine page" src="https://github.com/user-attachments/assets/64a3848f-33c0-48b6-874d-de89e8fed337" />
 
 
