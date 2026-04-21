@@ -1,0 +1,11 @@
+﻿Name,Supplier,Description,Cost Ea,Qty,Cost (USD),
+PCB,AllPCB,2mm black PCB (ALLPCB due to lower cost for 2mm boards),27,1,27,
+Components,LCSC,"components, incl  MOQ, see lcsc-bom.csv for details",10.4,1,10.4,
+Components Shipping,LCSC,shipping and handling fee,12.22,1,12.22,
+Stencil,JLCPCB,stencil from jlc because its cheaper,7.11,1,7.11,
+Stencil shipping,JLCPCB,shipping for stencil,15.51,1,15.51,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,TOTAL:,72.24,USD
