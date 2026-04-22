@@ -92,16 +92,16 @@
 		(layer "F.Mask")
 		(uuid "812e9fde-c434-44f1-af70-a5892cc761a1")
 	)
-	(fp_circle
-		(center 0.022981 0.1524)
-		(end 2.522981 0.1524)
+	(fp_rect
+		(start -1.6256 -1.3462)
+		(end 1.7272 1.397)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(fill yes)
 		(layer "B.Mask")
-		(uuid "f53ec59b-275c-43dd-80fe-bf6aeb8e8501")
+		(uuid "63df541d-39be-4df0-87c1-a4c01e716cd6")
 	)
 	(pad "1" smd custom
 		(at 1.328581 -3.048)
