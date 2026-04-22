@@ -9,14 +9,14 @@ A RP2354 based usb hardware authentication key, or anything else you can write f
 
 pdf in `assets/zine/Zine page.pdf`
 
-<img width="401" height="614" alt="Zine page" src="https://github.com/user-attachments/assets/64a3848f-33c0-48b6-874d-de89e8fed337" />
+<img width="401" height="614" alt="Zine page" src="https://github.com/user-attachments/assets/e01f9577-dfe1-4d3a-9f2e-a00efa33b71d" />
 
 
 ## Features
 - RP2354-based development board
 - Stacked 2MB flash storage
 - onboard USB-A connector
-- Capacative touch pad with shine-through green and blue LEDs
+- Capacative touch pad with shine-through red and blue LEDs
 - exposed 3V3, GND, RESET and BOOTSEL
 - 2 keyring/accessory mount holes
 - Hand-solderable (in theory)
