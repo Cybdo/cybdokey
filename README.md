@@ -4,6 +4,8 @@ A RP2354 based usb hardware authentication key, or anything else you can write f
 
 <img width="1270" height="720" alt="render showing front and back of cybdokey" src="https://github.com/user-attachments/assets/c995826c-fcd9-4199-bcff-b1967f765c89" />
 
+Cybdokey was made because yubikeys are too expensive and all the other options, including picofido on other devboards, were clunky. the user interaction button was tiny and hard to press, and depending on the board it was too big and/or needed an extra cable. Cybdokey was made to be a polished, compact FIDO key with capacative touch support.
+
 
 ## Zine Page / Poster
 
@@ -22,6 +24,10 @@ pdf in `assets/zine/Zine page.pdf`
 - Hand-solderable (in theory)
 - tiny form factor!
 <img width="1270" height="720" alt="render showing the backside of cybdokey" src="https://github.com/user-attachments/assets/33fe673f-e43e-420d-80b9-66b2a31928ed" />
+
+## Usage
+
+Simply plug Cybdokey into your computer's USB-A port, and it will function similar to a yubikey. Passkeys and OTPs can be stored on it, and it supports human presence detection using the capacative touch pad. LED signals are identical to that of any other pico-fido key.
 
 ## Schematics
 <img width="1287" height="990" alt="image" src="https://github.com/user-attachments/assets/46e68c64-a258-42bd-bf8f-d22971f3334f" />
