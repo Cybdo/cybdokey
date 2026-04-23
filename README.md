@@ -7,6 +7,8 @@ A RP2354 based usb hardware authentication key, or anything else you can write f
 Cybdokey was made because yubikeys are too expensive and all the other options, including picofido on other devboards, were clunky. the user interaction button was tiny and hard to press, and depending on the board it was too big and/or needed an extra cable. Cybdokey was made to be a polished, compact FIDO key with capacative touch support.
 
 
+**Note:** `bom.csv` is the LCSC parts list with working liks, whilst `overall-bom.csv` is an estimate of the overall project cost
+
 ## Zine Page / Poster
 
 pdf in `assets/zine/Zine page.pdf`
